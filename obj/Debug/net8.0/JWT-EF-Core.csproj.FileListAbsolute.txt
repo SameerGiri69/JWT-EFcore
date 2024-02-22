@@ -141,3 +141,4 @@ D:\All Projects\E-Commerce\Latest Projects\JWT-EF-Core\JWT-EF-Core\obj\Debug\net
 D:\All Projects\E-Commerce\Latest Projects\JWT-EF-Core\JWT-EF-Core\obj\Debug\net8.0\JWT-EF-Core.pdb
 D:\All Projects\E-Commerce\Latest Projects\JWT-EF-Core\JWT-EF-Core\obj\Debug\net8.0\JWT-EF-Core.genruntimeconfig.cache
 D:\All Projects\E-Commerce\Latest Projects\JWT-EF-Core\JWT-EF-Core\obj\Debug\net8.0\ref\JWT-EF-Core.dll
+D:\All Projects\E-Commerce\Latest Projects\JWT-EF-Core\JWT-EF-Core\obj\Debug\net8.0\JWT-EF-Core.sourcelink.json
