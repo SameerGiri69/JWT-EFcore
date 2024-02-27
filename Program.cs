@@ -11,6 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpContextAccessor();
+
 builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {

@@ -1,1 +1,6 @@
 ﻿<h1> this is account index page </h1>
+
+@if(User.Identity.IsAuthenticated)
+{
+    <h2> the use is logged in</h2>
+}
