@@ -93,6 +93,7 @@ namespace JWT_EF_Core.Controllers
             ModelState.AddModelError("SignIn", "Error signing in");
             return View();
         }
+        [HttpDelete]
         public IActionResult LogOut()
         {
             _signInManager.SignOutAsync();
@@ -116,5 +117,6 @@ namespace JWT_EF_Core.Controllers
                 return RedirectToAction("Register", "Account");
             
         }
+        
     }
 }
